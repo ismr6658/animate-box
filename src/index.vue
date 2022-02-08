@@ -42,7 +42,7 @@ export default {
         app.addEventListener("webkitAnimationStart", () => {
             this.$emit("animationStart");
         });
-        // 动画重复运动时事件
+        // 动画重复运动
         app.addEventListener("webkitAnimationIteration", () => {
             this.$emit("animationIteration");
         });
@@ -60,6 +60,6 @@ export default {
 </script>
 
 <style>
-@import url("~@/assets/animate.css");
-@import url("~@/assets/style.css");
+@import url("./assets/animate.css");
+@import url("./assets/style.css");
 </style>
