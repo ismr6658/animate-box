@@ -19,6 +19,17 @@
   ],
   "description": "基于animate.css的动画容器",
   "main": "main.js",
-  "author": "",
-  "license": "ISC"
+  "author": "ismr6658",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ismr6658/animate-box.git"
+  },
+  "keywords": [
+    "animate"
+  ],
+  "bugs": {
+    "url": "https://github.com/ismr6658/animate-box/issues"
+  },
+  "homepage": "https://github.com/ismr6658/animate-box#readme"
 }
